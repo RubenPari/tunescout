@@ -1,0 +1,18 @@
+# Binario compilato
+/tunescout
+dist/
+
+# Database locali SQLite
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Segreti / configurazione locale
+.env
+token.json
+config.json
+
+# Editor
+.idea/
+.vscode/
